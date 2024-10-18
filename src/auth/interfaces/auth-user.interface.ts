@@ -1,0 +1,3 @@
+interface AuthUser {
+  userId: number;
+}
